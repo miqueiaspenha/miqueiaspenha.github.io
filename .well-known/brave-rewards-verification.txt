@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: miqueiaspenha.github.io
+Token: 5801d8f06335f8e0418aa5359f35c47a7213eb9cf20c29d14571e8b11412dd18
